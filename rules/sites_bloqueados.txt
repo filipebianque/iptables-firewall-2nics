@@ -1,0 +1,3 @@
+# Lista de domínios a bloquear via DNS ou proxy
+facebook.com
+youtube.com
