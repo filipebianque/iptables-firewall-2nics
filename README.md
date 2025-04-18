@@ -16,7 +16,7 @@ Este projeto traz um **script completo de firewall** baseado em `iptables`, idea
 ## 🧱 Estrutura
 
 ```
-firewall/
+rules/
 ├── firewall.sh         # Script principal do firewall
 ├── ips_bloqueados.txt  # Lista de IPs externos a bloquear
 ├── sites_bloqueados.txt# Lista de domínios a bloquear
